@@ -11,7 +11,5 @@ Running `generate.sh` will make the folder structure in `/docs` using the conten
 Push your branch to github and set github pages to build from the `/docs` folder in `master`
 
 # Analytics
-I have added my google analytics code to `template.html` - possibilities are endless.
+removed Sri's google analytics code but can add back to `template.html` - possibilities are endless.
 
-# Example
-https://sri.fyi/twitter --(301's to)--> https://twitter.com/sricola
